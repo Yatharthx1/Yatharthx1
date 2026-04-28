@@ -2,7 +2,7 @@
 
 BTech CSE (AI/ML) · IPS Academy, Indore
 
-First-year student. I build things outside of class — deployed systems, not demos. My focus is applied ML and backend architecture: the kind of work that handles real-world inputs and breaks in interesting ways.
+First-year student. I build things outside of class - deployed systems, not demos. My focus is applied ML and backend architecture: the kind of work that handles real-world inputs and breaks in interesting ways.
 
 Currently deep into intelligent systems, API design, and data pipelines. I move fast, but I care about getting it right.
 
