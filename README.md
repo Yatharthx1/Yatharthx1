@@ -4,7 +4,7 @@ BTech CSE (AI/ML) · IPS Academy, Indore
 
 First-year student. My focus is applied ML and backend architecture: the kind of work that handles real-world inputs and breaks in interesting ways.
 
-Currently deep into intelligent systems, API design, and data pipelines. I move fast, but I care about getting it right.
+Currently deep into intelligent systems, API design, and data pipelines.
 
 ---
 
